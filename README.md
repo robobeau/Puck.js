@@ -4,7 +4,7 @@ Eventually, something useful might come out of all of this, _but don't hold your
 
 ## Table of Contents
 ### Light Meter
-For when you absolutely _must_ know whether or not you're in a dark room. The darker the room, the more franticly the LED will flash!
+For when you absolutely _must_ know whether or not you're in a dark room. The darker the room, the more frantically the LED will flash!
 
 ### Dice Roller
 A ~~usability nightmare~~ dice rolling app!

@@ -3,7 +3,7 @@
  * @author Rene Esteves <rene@robobeau.com>
  * @version 1.0
  */
-(function() {
+(() => {
     'use strict';
 
     const intervalModifier = 1000;
